@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
+    "start-prod": "SET NODE_ENV=production&&SET MONGO_USER=TheSolom&&SET MONGO_PASSWORD=eslamsolom2003&&SET MONGO_DB_NAME=Shop&&SET STRIPE_KEY=sk_test_51NsuYQHxyynT8ghZ3FHgBEQHj4OqwUyyINeHdwrcj7mMuhLS9xjiEyPrnCIUUuStR6NMQL50DCC3ve2UK4YiMeOT00bGVlFrik&&node app.js",
     "start-dev": "nodemon app.js"
   },
   "author": "TheSolom",
