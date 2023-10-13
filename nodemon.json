@@ -1,0 +1,9 @@
+{
+  "env": {
+    "NODE_ENV": "development",
+    "MONGO_USER": "TheSolom",
+    "MONGO_PASSWORD": "eslamsolom2003",
+    "MONGO_DB_NAME": "Shop",
+    "STRIPE_KEY": "sk_test_51NsuYQHxyynT8ghZ3FHgBEQHj4OqwUyyINeHdwrcj7mMuhLS9xjiEyPrnCIUUuStR6NMQL50DCC3ve2UK4YiMeOT00bGVlFrik"
+  }
+}
