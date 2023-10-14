@@ -91,7 +91,10 @@ app.use(
       "style-src": ["'self'", "'unsafe-inline'", "fonts.googleapis.com"],
       "frame-src": ["'self'", "js.stripe.com"],
       "font-src": ["'self'", "fonts.googleapis.com", "fonts.gstatic.com"],
-      "img-src": ["'self'", "https://media.tenor.com"],
+      "img-src": [
+        "'self'",
+        "https://media.tenor.com/LqgkL31-7gAAAAAC/stare-awkward.gif",
+      ],
     },
   })
 );
